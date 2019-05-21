@@ -31,7 +31,7 @@ DD FC 4B 7E 6A BC D5 5D 43 2F F9 23 E3 45 AA A2
 * **Base64 Decode**:<br>
 *Input*:- <br> eml5YW4gemFmYXI= <br>
 *Output*:- <br>ziyan zafar
-* **Vignere Cipher** :<br>
+* **Vigenere Cipher** :<br>
 *Input*:- <br> Enter the plaintext: ATTACKATDAWN <br>
 Enter the key: LEMON<br>
 *Output*:- ciphertext: LXFOPVEFRNHR<br>
